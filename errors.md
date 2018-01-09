@@ -1,10 +1,14 @@
-# PACKAGE ERRORS
+# Errors
+
+```
+import "errors"
+```
 
 > Package errors implements functions to manipulate errors…
 
 ### Package Index
 
-> There is only one function so far…
+There is only one function so far…
 
 #### func [New](https://golang.org/src/errors/errors.go?s=293:320#L1)
 
@@ -72,8 +76,6 @@ errors.New("open failed") != errors.New("open failed")
 
 #### **Complete example**![](https://cdn-images-1.medium.com/max/1000/1*fn5OgYYFUBw8s8p77aY84g.png)[![](/assets/run-code.png)](https://play.golang.org/p/qhNorvt5CvE)
 
-
-
 > Internally New assigns the string to a struct that implements the Error\(\) interface.
 
 ## Questions
@@ -85,10 +87,6 @@ errors.New("open failed") != errors.New("open failed")
 * **Are 2 errors with the same message string the same?**
 
   _**Answer**: No, because they have different allocations._
-
-
-
-
 
 [^1]: [Alternative link](https://play.golang.org/p/qhNorvt5CvE)
 
