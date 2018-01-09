@@ -38,3 +38,8 @@ The source code included here is copyright Theo Despoudis and licensed under the
 
 
 
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/theodesp/go-standard-library-by-example/badge.svg?style=beer-square)](https://beerpay.io/theodesp/go-standard-library-by-example)  [![Beerpay](https://beerpay.io/theodesp/go-standard-library-by-example/make-wish.svg?style=flat-square)](https://beerpay.io/theodesp/go-standard-library-by-example?focus=wish)
