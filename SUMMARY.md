@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Errors](/chapter1.md#package-errors)
+* [Errors](/errors.md#package-errors)
 
