@@ -1,5 +1,7 @@
 # Go Standard Library By Example
 
+[![](https://beerpay.io/theodesp/go-standard-library-by-example/badge.svg?style=beer-square)](https://beerpay.io/theodesp/go-standard-library-by-example)[![](https://beerpay.io/theodesp/go-standard-library-by-example/make-wish.svg?style=flat-square)](https://beerpay.io/theodesp/go-standard-library-by-example?focus=wish)
+
 **Go Standard Library By Example** is a series of articles written by [Theo Despoudis](https://www.linkedin.com/in/theofanis-despoudis-7bb30913/). to demonstrate how to use the modules of the Go standard library. It covers the 1.9.3 version of the Standard Library
 
 See the blog home page at &lt;webpage&gt; for updates.
@@ -11,6 +13,12 @@ Complete documentation for the standard library can be found on the Go web site 
 ## Subscribe
 
 As new articles are written, they are posted to my [Publication](https://medium.com/@fanisdespoudis/).  Follow [@nerdokto](http://twitter.com/nerdokto) and [@inancgumus](http://twitter.com/inancgumus) as well. You can subscribe via [email here](https://upscri.be/85e19a/).
+
+## Support on Beerpay🎗️
+
+I don’t get financial support for this, but if you would like to support me you can buy me a beer with:
+
+[![Beerpay](https://beerpay.io/theodesp/go-standard-library-by-example/badge.svg?style=beer-square)](https://beerpay.io/theodesp/go-standard-library-by-example)  [![Beerpay](https://beerpay.io/theodesp/go-standard-library-by-example/make-wish.svg?style=flat-square)](https://beerpay.io/theodesp/go-standard-library-by-example?focus=wish)
 
 ## Copyright and Licensing
 
@@ -38,8 +46,3 @@ The source code included here is copyright Theo Despoudis and licensed under the
 
 
 
-
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/theodesp/go-standard-library-by-example/badge.svg?style=beer-square)](https://beerpay.io/theodesp/go-standard-library-by-example)  [![Beerpay](https://beerpay.io/theodesp/go-standard-library-by-example/make-wish.svg?style=flat-square)](https://beerpay.io/theodesp/go-standard-library-by-example?focus=wish)
